@@ -1,0 +1,24 @@
+{
+  "name": "cypress-web-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dibhat19/cypress-web-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dibhat19/cypress-web-automation-framework/issues"
+  },
+  "homepage": "https://github.com/dibhat19/cypress-web-automation-framework#readme",
+  "dependencies": {
+    "cypress": "^15.7.0"
+  }
+}
